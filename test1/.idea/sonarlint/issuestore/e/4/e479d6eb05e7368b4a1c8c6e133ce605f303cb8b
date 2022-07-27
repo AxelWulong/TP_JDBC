@@ -1,0 +1,19 @@
+
+S
+java:S1163-"=Refactor this code to not throw exceptions in finally blocks.(þžÚ¦
+S
+java:S1163B"=Refactor this code to not throw exceptions in finally blocks.(þžÚ¦
+S
+java:S1163W"=Refactor this code to not throw exceptions in finally blocks.(þžÚ¦
+S
+java:S1163"=Refactor this code to not throw exceptions in finally blocks.(þžÚ¦
+J
+java:S1143-"4Remove this throw statement from this finally block.(þžÚ¦
+J
+java:S1143B"4Remove this throw statement from this finally block.(þžÚ¦
+J
+java:S1143W"4Remove this throw statement from this finally block.(þžÚ¦
+J
+java:S1143"4Remove this throw statement from this finally block.(þžÚ¦
+e
+java:S2095i"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ñ­ûÙ
